@@ -87122,7 +87122,7 @@ aiQ(a){var s=0,r=A.P(t.H),q=1,p=[],o=this,n,m,l,k,j,i
 var $async$tO=A.Q(function(b,c){if(b===1){p.push(c)
 s=q}for(;;)switch(s){case 0:q=3
 s=6
-return A.R(A.aW0(A.ec("https://electrostrictive-mallory-nondendroidal.ngrok-free.dev/check_premium?user_id="+a)).J6(0,B.En),$async$tO)
+return A.R(A.aW0(A.ec("https://stoic-backend-ktt0.onrender.com/check_premium?user_id="+a)).J6(0,B.En),$async$tO)
 case 6:n=c
 s=n.b===200?7:8
 break
@@ -87172,7 +87172,7 @@ g=J.aB(f)
 if(g.gbD(f)){g=g.kw(f,3)
 e=new A.Z(g,new A.afD(),g.$ti.i("Z<an.E,k>")).bm(0,"\n")
 l=J.azQ(l,"\n\u0423\u0447\u0438\u0442\u044b\u0432\u0430\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043c\u044b\u0441\u043b\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438\u0437 \u0434\u043d\u0435\u0432\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430:\n"+e)}}p=4
-g=A.ec("https://electrostrictive-mallory-nondendroidal.ngrok-free.dev/analyze")
+g=A.ec("https://stoic-backend-ktt0.onrender.com/analyze")
 d=t.N
 c=A.aA(["Content-Type","application/json; charset=utf-8"],d,d)
 s=7
